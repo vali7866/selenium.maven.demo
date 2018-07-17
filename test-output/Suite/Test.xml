@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-M10IA97" name="selenium.maven.demo.facebook" tests="1" failures="0" timestamp="15 Jul 2018 07:47:53 GMT" time="40.588" errors="0">
+  <testcase name="TestFireFox" time="40.556" classname="selenium.maven.demo.facebook"/>
+</testsuite>
